@@ -1,0 +1,11 @@
+<suite name="textngbasic_suite">
+	<test name='test1'>
+		<classes>
+			<class name="testngbasics.BasicTestCase1">
+			<methods>
+			<include name="verifyTabtitle"></include>
+			</methods>
+			</class>
+				</classes>
+	</test>
+</suite>

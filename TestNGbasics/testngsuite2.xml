@@ -1,0 +1,19 @@
+<suite name="textngbasic_suite" thread-count ="5" parallel="methods">
+	<test name='test1'>
+		<classes>
+			<class name="testngbasics.BasicAnnotations">
+			</class>
+			<class name="testngbasics.BasicTestCase1">
+			</class>
+		</classes>
+	</test>
+	
+	<test name='test2'>
+		<classes>
+			<class name="testngbasics.VerifyColour">
+			</class>
+			<class name="testngbasics.CheckTestcase3">
+			</class>
+		</classes>
+	</test>
+</suite>

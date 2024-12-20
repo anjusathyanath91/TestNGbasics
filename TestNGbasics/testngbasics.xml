@@ -1,0 +1,10 @@
+<suite name="textngbasic_suite">
+	<test name='test1'>
+		<classes>
+			<class name="testngbasics.BasicAnnotations">
+			</class>
+			<class name="testngbasics.CheckTestcase3">
+			</class>
+		</classes>
+	</test>
+</suite>
